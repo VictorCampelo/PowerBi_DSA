@@ -1,3 +1,4 @@
 VICTOR-GIT
 desktop.ini
-.DS*
+*.DS*
+.*
